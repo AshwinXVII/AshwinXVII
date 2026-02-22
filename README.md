@@ -5,12 +5,12 @@
 
 
 
-<h2 align="center">SOFTWARE ENGINEER</h2>
 
-<br>
 
-<h3 align="center">Hi 👋, I'm Ashwin</h3>
-<h4 align="center">Aspiring Software Engineer passionate about Cloud Computing and Modern Software Development</h4>
+<br> 
+
+<h1 align="center">Hi 👋, I'm Ashwin</h1>
+<h2 align="center">Aspiring Software Engineer passionate about Cloud Computing and Modern Software Development</h2>
 
 <p align="left">
 I'm deeply fascinated by how cloud technology ☁️ is transforming the way modern applications are built, deployed, and scaled 🚀. Exploring the evolution of software architecture 🏗️ inspired me to pursue software engineering, and that passion continues to grow as I expand my knowledge in cloud computing ☁️, DevOps ⚙️, and full-stack development 💻. I enjoy learning new technologies 📚, experimenting with modern tech stacks 🧩, and applying them to build efficient, scalable solutions 📈 that solve real-world problems 🌍.
@@ -19,8 +19,6 @@ I'm deeply fascinated by how cloud technology ☁️ is transforming the way mod
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-
-
 
 
 ## 🚀 Tech Stack
@@ -41,7 +39,6 @@ I'm deeply fascinated by how cloud technology ☁️ is transforming the way mod
 <img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ## 👨‍💻 About Me
-
 
 - 🎓 Aspiring Software Engineer from Sri Lanka
   
