@@ -60,13 +60,13 @@ I'm deeply fascinated by how cloud technology ☁️ is transforming the way mod
 ## 🌐 Connect With Me
 
 <div align="left" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/AshwinXVII" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/ashwin-paramanathan-9b463630b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+  <a href="https://www.instagram.com/_.ash_win._?igsh=MXUxcGg1bjVrcHpnNA%3D%3D" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://twitter.com/YOUR_USERNAME" target="_blank">
