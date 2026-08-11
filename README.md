@@ -16,10 +16,6 @@
 I'm deeply fascinated by how cloud technology ☁️ is transforming the way modern applications are built, deployed, and scaled 🚀. Exploring the evolution of software architecture 🏗️ inspired me to pursue software engineering, and that passion continues to grow as I expand my knowledge in cloud computing ☁️, DevOps ⚙️, and full-stack development 💻. I enjoy learning new technologies 📚, experimenting with modern tech stacks 🧩, and applying them to build efficient, scalable solutions 📈 that solve real-world problems 🌍.
 </p>
 
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 
 ## 🚀 Tech Stack
 
@@ -92,9 +88,9 @@ To become a highly skilled Software Engineer who designs innovative, scalable, a
 
 ## 📊 GitHub Stats
 
-![Ashwin GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Ashwin GitHub stats](https://github-readme-stats.vercel.app/api?username=AshwinXVII&show_icons=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AshwinXVII)
 
 ---
 
@@ -102,7 +98,7 @@ To become a highly skilled Software Engineer who designs innovative, scalable, a
 
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="90">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&row=1&column=6">
+<img src="https://github-profile-trophy.vercel.app/?username=AshwinXVII&theme=matrix&no-frame=true&row=1&column=6">
 
 ---
 
@@ -113,9 +109,3 @@ To become a highly skilled Software Engineer who designs innovative, scalable, a
 ---
 
 <p align="right">Created with 🧡 by <b>Ashwin Paramanathan</b></p>
-
-<br>
-
-
-
-
